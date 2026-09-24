@@ -1,0 +1,10 @@
+# Core solver
+numpy
+
+# Image recognition and visualization
+opencv-python
+matplotlib
+
+# Raspberry Pi-only imports used by main.py:
+# picamera2 and RPi.GPIO should be installed using the Raspberry Pi OS
+# packages appropriate for the board and camera setup.
