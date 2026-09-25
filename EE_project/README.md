@@ -28,8 +28,6 @@ EE_project/
 └── doc/                       # 專題研究成果報告
 ```
 
-壓縮檔原有的根目錄模型程式與 `src/models/` 內容相同，兩處權重檔也逐一相同；整理版只保留一套模型程式與每種設定各一套權重。`crop_*` 原本是空資料夾，這裡保留空位供補資料。
-
 ## 安裝
 
 研究報告使用 Python 3.9.21 與 MATLAB R2024a。Python 程式的套件列於 `requirements.txt`；PyTorch 的 CPU 或 CUDA 安裝版本需配合執行電腦。
