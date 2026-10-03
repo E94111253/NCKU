@@ -1,6 +1,8 @@
 # NCKU Projects & Technical Portfolio
 
-This repository summarizes my selected projects, technical coursework, and programming certifications completed during my undergraduate studies at National Cheng Kung University.
+本作品集彙整了我在國立成功大學四年期間所完成之精選專案、技術課程及程式設計認證。
+
+我的研究範疇主要涵蓋 **影像處理、電腦視覺、深度學習、最佳化、搜尋演算法、科學計算，以及嵌入式／系統整合**。
 
 My work mainly covers **image processing, computer vision, deep learning, optimization, search algorithms, scientific computing, and embedded/system integration**.
 
@@ -10,7 +12,7 @@ My work mainly covers **image processing, computer vision, deep learning, optimi
 
 ### 1. COS2A Hyperspectral Reconstruction
 
-**Topic:** Sentinel-2 to AVIRIS hyperspectral image reconstruction using interpretable deep learning and optimization.
+**Topic:** 基於COS2A之 Sentinel-2影像高光譜重建與實驗分析
 
 **Main work**
 - Preprocessed and paired AVIRIS and Sentinel-2 remote-sensing data.
@@ -26,7 +28,7 @@ My work mainly covers **image processing, computer vision, deep learning, optimi
 
 ### 2. Automatic Rubik's Cube Solving System
 
-**Topic:** Search-algorithm and hardware integration for an automatic 3x3 Rubik's Cube solving system.
+**Topic:** 啟發函數與剪枝策略對魔術方塊求解效率之理論與實證分析
 
 **Main work**
 - Implemented a Kociemba-based solver using **IDA\\***, DFS, heuristic search, and pruning tables.
