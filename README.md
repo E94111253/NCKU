@@ -4,8 +4,6 @@
 
 我的研究範疇主要涵蓋 **影像處理、電腦視覺、深度學習、最佳化、搜尋演算法、科學計算，以及嵌入式／系統整合**。
 
-My work mainly covers **image processing, computer vision, deep learning, optimization, search algorithms, scientific computing, and embedded/system integration**.
-
 ---
 
 ## Featured Projects
